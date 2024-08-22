@@ -1,0 +1,11 @@
+to make your code faster on leetcode
+
+ios_base::sync_with_stdio(false);
+
+
+
+        //speed booster code-------------
+        ios::sync_with_stdio(0);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        //speed booster code-------------
